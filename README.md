@@ -1,1 +1,1 @@
-# bash-scripts-examples-automation
+# scripts-ci-cd
